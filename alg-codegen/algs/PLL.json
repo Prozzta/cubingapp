@@ -15,8 +15,11 @@
             "subset": "Adj corners",
             "algs": {
                 "x (R' U R') D2 (R U' R') D2 R2 x'": {
-                    "vid": "../vids/PLL/Aa.mp4",
-                    "note": "Inverse of Ab perm"
+                    "pllid": "Ua1",
+                    "vid": "embed link",
+                    "note": "Inverse of Ab perm",
+                    "Pro": "Yes",
+                    "Athletes": "Yiheng Wang", "Dylan Miller"
                 }
             }
         },
@@ -24,7 +27,7 @@
             "subset": "Adj corners",
             "algs": {
                 "x R2' D2 (R U R') D2 (R U' R) x'": {
-                    "vid": "../vids/PLL/Ab.mp4",
+                   "vid": "embed link",
                     "note": "Inverse of Aa perm"
                 }
             }
@@ -33,7 +36,7 @@
             "subset": "Diag corners",
             "algs": {
                 "x' (R U' R' D) (R U R' D') (R U R' D) (R U' R' D') x": {
-                    "vid": "../vids/PLL/E.mp4",
+                    "vid": "embed link",
                     "note": "4 groups of R U R D"
                 },
                 "R' U' R' D' R U' R' D R U R' D' R U R' D R2": {}
@@ -43,7 +46,7 @@
             "subset": "Adj corners",
             "algs": {
                 "R' U' F' R U R' U' R' F R2 U' R' U' R U R' U R": {
-                    "vid": "../vids/PLL/F.mp4",
+                    "vid": "embed link",
                     "note": "R' U' F' (T perm) F U R"
                 }
             }
@@ -52,7 +55,7 @@
             "subset": "G perm",
             "algs": {
                 "R2 U R' U R' U' R U' R2 D U' R' U R D'": {
-                    "vid": "../vids/PLL/Ga.mp4",
+                    "vid": "embed link",
                     "note": "Inverse of Gb"
                 }
             }
@@ -61,7 +64,7 @@
             "subset": "G perm",
             "algs": {
                 "R' U' R U D' R2 U R' U R U' R U' R2 D": {
-                    "vid": "../vids/PLL/Gb.mp4",
+                    "vid": "embed link",
                     "note": "Inverse of Ga"
                 }
             }
@@ -70,7 +73,7 @@
             "subset": "G perm",
             "algs": {
                 "R2 F2 R U2 R U2 R' F R U R' U' R' F R2": {
-                    "vid": "../vids/PLL/Gc.mp4"
+                    "vid": "embed link",
                 },
                 "R2 U' R U' R U R' U R2 D' U R U' R' D": {}
             }
@@ -79,7 +82,7 @@
             "subset": "G perm",
             "algs": {
                 "R U R' U' D R2 U' R U' R' U R' U R2 D'": {
-                    "vid": "../vids/PLL/Gd.mp4",
+                    "vid": "embed link",
                     "note": "Mirror of Gb"
                 }
             }
@@ -88,7 +91,7 @@
             "subset": "Edge perm",
             "algs": {
                 "M2 U' M2 U2 M2 U' M2": {
-                    "vid": "../vids/PLL/H.mp4"
+                    "vid": "embed link"
                 }
             }
         },
@@ -96,7 +99,7 @@
             "subset": "Adj corners",
             "algs": {
                 "x R2 F R F' R U2 r' U r U2 x'": {
-                    "vid": "../vids/PLL/Ja.mp4"
+                   "vid": "embed link"
                 },
                 "L' U' L F L' U' L U L F' L2 U L": {},
                 "R' U L' U2 R U' R' U2 R L": {},
@@ -116,7 +119,7 @@
             "subset": "Diag corners",
             "algs": {
                 "(R U R' U) (R U R' F' R U R' U' R' F R2 U' R') (U2 R U' R')": {
-                    "vid": "../vids/PLL/Na.mp4",
+                    "vid": "embed link",
                     "note": "R U R' U (J perm) U' R U' R'"
                 },
                 "F' R U R' U' R' F R2 F U' R' U' R U F' R'": {},
@@ -128,7 +131,7 @@
             "subset": "Diag corners",
             "algs": {
                 "r' D' F r U' r' F' D r2 U r' U' r' F r F'": {
-                    "vid": "../vids/PLL/Nb.mp4",
+                    "vid": "embed link",
                     "note": "Ends with wide sexy sledge"
                 },
                 "R' U R U' R' F' U' F R U R' F R' F' R U' R": {},
@@ -139,7 +142,7 @@
             "subset": "Adj corners",
             "algs": {
                 "(R U' R' U') R U (R D R') U' (R D' R') U2 R' U'": {
-                    "vid": "../vids/PLL/Ra.mp4"
+                    "vid": "embed link"
                 },
                 "R U R' F' R U2 R' U2 R' F R U R U2 R'": {}
             }
@@ -148,7 +151,7 @@
             "subset": "Adj corners",
             "algs": {
                 "(R' U2 R U2) R' F (R U R' U') R' F' R2": {
-                    "vid": "../vids/PLL/Rb.mp4"
+                    "vid": "embed link"
                 }
             }
         },
@@ -156,7 +159,7 @@
             "subset": "Adj corners",
             "algs": {
                 "(R U R' U') R' F R2 U' R' U' (R U R' F')": {
-                    "vid": "../vids/PLL/T.mp4",
+                   "vid": "embed link",
                     "note": "J perm with first 4 moves shifted to end"
                 }
             }
@@ -165,7 +168,7 @@
             "subset": "Edge perm",
             "algs": {
                 "M2 U M U2 M' U M2": {
-                    "vid": "../vids/PLL/Ua.mp4",
+                    "vid": "embed link",
                     "note": "Inverse of Ub perm"
                 },
                 "R U' R U R U R U' R' U' R2": {},
@@ -176,7 +179,7 @@
             "subset": "Edge perm",
             "algs": {
                 "M2 U' M U2 M' U' M2": {
-                    "vid": "../vids/PLL/Ub.mp4",
+                    "vid": "embed link",
                     "note": "Inverse of Ua perm"
                 },
                 "R2' U R U R' U' R3 U' R' U R'": {},
@@ -187,7 +190,7 @@
             "subset": "Diag corners",
             "algs": {
                 "(R' U R' U') (R D' R' D) R' U D' R2 U' R2 D R2": {
-                    "vid": "../vids/PLL/V.mp4"
+                    "vid": "embed link",
                 },
                 "R' U R' U' y R' F' R2 U' R' U R' F R F": {}
             }
@@ -196,7 +199,7 @@
             "subset": "Diag corners",
             "algs": {
                 "F (R U' R' U') (R U R' F') (R U R' U') (R' F R F')": {
-                    "vid": "../vids/PLL/Y.mp4",
+                    "vid": "embed link",
                     "note": "2 OLLs"
                 },
                 "F R' F R2 U' R' U' R U R' F' R U R' U' F'": {}
@@ -206,7 +209,7 @@
             "subset": "Edge perm",
             "algs": {
                 "M2 U' M2 U' M' U2 M2 U2 M' U2": {
-                    "vid": "../vids/PLL/Z.mp4"
+                    "vid": "embed link",
                 },
                 "M' U' M2 U' M2 U' M' U2 M2": {}
             }
